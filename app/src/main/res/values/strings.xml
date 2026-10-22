@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escáner PDF</string>
+    <string name="escanear">Escanear</string>
+    <string name="lista_vacia">Todavía no hay documentos.\nPulsa Escanear para crear el primero.</string>
+    <string name="opciones">Más opciones</string>
+    <string name="compartir">Compartir</string>
+    <string name="guardar_en_movil">Guardar en el móvil</string>
+    <string name="renombrar">Renombrar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="eliminar_documento">Eliminar documento</string>
+    <string name="nombre_documento">Nombre del documento</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="confirmar_eliminar_mensaje">Se borrará \"%1$s\" de forma definitiva.</string>
+    <string name="documento_guardado">Documento guardado</string>
+    <string name="guardado_en_movil">PDF guardado en el móvil</string>
+    <string name="documento_eliminado">Documento eliminado</string>
+    <string name="error_escaner">No se ha podido abrir el escáner</string>
+    <string name="error_guardar">No se ha podido completar la operación</string>
+    <string name="error_renombrar">No se ha podido renombrar. Comprueba que el nombre no exista ya.</string>
+    <string name="sin_visor">No hay ninguna aplicación para abrir PDF</string>
+
+    <plurals name="paginas">
+        <item quantity="one">%d página</item>
+        <item quantity="other">%d páginas</item>
+    </plurals>
+</resources>

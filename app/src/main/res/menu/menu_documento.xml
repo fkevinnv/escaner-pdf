@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/accionCompartir"
+        android:title="@string/compartir" />
+    <item
+        android:id="@+id/accionGuardar"
+        android:title="@string/guardar_en_movil" />
+    <item
+        android:id="@+id/accionRenombrar"
+        android:title="@string/renombrar" />
+    <item
+        android:id="@+id/accionEliminar"
+        android:title="@string/eliminar" />
+
+</menu>
